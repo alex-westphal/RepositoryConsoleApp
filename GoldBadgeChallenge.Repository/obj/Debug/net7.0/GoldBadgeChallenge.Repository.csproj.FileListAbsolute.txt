@@ -1,0 +1,15 @@
+C:\Users\Reid\Documents\Eleven Fifty projects\CodingFoundations\assignments\GoldBadgeChallenge\GoldBadgeChallenge.Repository\bin\Debug\net7.0\GoldBadgeChallenge.Repository.deps.json
+C:\Users\Reid\Documents\Eleven Fifty projects\CodingFoundations\assignments\GoldBadgeChallenge\GoldBadgeChallenge.Repository\bin\Debug\net7.0\GoldBadgeChallenge.Repository.dll
+C:\Users\Reid\Documents\Eleven Fifty projects\CodingFoundations\assignments\GoldBadgeChallenge\GoldBadgeChallenge.Repository\bin\Debug\net7.0\GoldBadgeChallenge.Repository.pdb
+C:\Users\Reid\Documents\Eleven Fifty projects\CodingFoundations\assignments\GoldBadgeChallenge\GoldBadgeChallenge.Repository\bin\Debug\net7.0\GoldBadgeChallenge.Data.dll
+C:\Users\Reid\Documents\Eleven Fifty projects\CodingFoundations\assignments\GoldBadgeChallenge\GoldBadgeChallenge.Repository\bin\Debug\net7.0\GoldBadgeChallenge.Data.pdb
+C:\Users\Reid\Documents\Eleven Fifty projects\CodingFoundations\assignments\GoldBadgeChallenge\GoldBadgeChallenge.Repository\obj\Debug\net7.0\GoldBadgeChallenge.Repository.csproj.AssemblyReference.cache
+C:\Users\Reid\Documents\Eleven Fifty projects\CodingFoundations\assignments\GoldBadgeChallenge\GoldBadgeChallenge.Repository\obj\Debug\net7.0\GoldBadgeChallenge.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reid\Documents\Eleven Fifty projects\CodingFoundations\assignments\GoldBadgeChallenge\GoldBadgeChallenge.Repository\obj\Debug\net7.0\GoldBadgeChallenge.Repository.AssemblyInfoInputs.cache
+C:\Users\Reid\Documents\Eleven Fifty projects\CodingFoundations\assignments\GoldBadgeChallenge\GoldBadgeChallenge.Repository\obj\Debug\net7.0\GoldBadgeChallenge.Repository.AssemblyInfo.cs
+C:\Users\Reid\Documents\Eleven Fifty projects\CodingFoundations\assignments\GoldBadgeChallenge\GoldBadgeChallenge.Repository\obj\Debug\net7.0\GoldBadgeChallenge.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Reid\Documents\Eleven Fifty projects\CodingFoundations\assignments\GoldBadgeChallenge\GoldBadgeChallenge.Repository\obj\Debug\net7.0\GoldBadgeChallenge.Repository.csproj.CopyComplete
+C:\Users\Reid\Documents\Eleven Fifty projects\CodingFoundations\assignments\GoldBadgeChallenge\GoldBadgeChallenge.Repository\obj\Debug\net7.0\GoldBadgeChallenge.Repository.dll
+C:\Users\Reid\Documents\Eleven Fifty projects\CodingFoundations\assignments\GoldBadgeChallenge\GoldBadgeChallenge.Repository\obj\Debug\net7.0\refint\GoldBadgeChallenge.Repository.dll
+C:\Users\Reid\Documents\Eleven Fifty projects\CodingFoundations\assignments\GoldBadgeChallenge\GoldBadgeChallenge.Repository\obj\Debug\net7.0\GoldBadgeChallenge.Repository.pdb
+C:\Users\Reid\Documents\Eleven Fifty projects\CodingFoundations\assignments\GoldBadgeChallenge\GoldBadgeChallenge.Repository\obj\Debug\net7.0\ref\GoldBadgeChallenge.Repository.dll
